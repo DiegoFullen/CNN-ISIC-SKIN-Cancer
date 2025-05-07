@@ -1,0 +1,5 @@
+**/*.jpg
+Docs/
+*.pyc
+*.h5
+*.keras
