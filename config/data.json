@@ -1,0 +1,41 @@
+{
+    "actual_version": 2,
+    "modelo_actual": "/isic_cnn_model_v1.h5",
+    "versiones": [
+        {
+            "archivo": "test_model.pkl",
+            "fecha_entrenamiento": "2025-16-01",
+            "imagenes": 1000,
+            "epocas": 10,
+            "accuracy": 0.95,
+            "loss": 0.05,
+            "f1": 0.9,
+            "recall": 0.92,
+            "version": "v1"
+        },
+        {
+            "archivo": "/isic_cnn_model_v1.h5",
+            "fecha_entrenamiento": "2025-16-01",
+            "imagenes": 783,
+            "epocas": 10,
+            "batch_size": 16,
+            "neurons": 512,
+            "neurons2": 256,
+            "dropout": 0.5,
+            "dropout2": 0.3,
+            "convolutional_layers": {
+                "conv1": 32,
+                "conv2": 64,
+                "conv3": 128,
+                "conv4": 256,
+                "conv5": 512
+            },
+            "accuracy": 0.0,
+            "loss": 0.0,
+            "f1": 0.0,
+            "recall": 0.0,
+            "matrix_confusion": {},
+            "version": "v2"
+        }
+    ]
+}

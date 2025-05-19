@@ -6,7 +6,6 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import roc_auc_score
 from sklearn.metrics import roc_curve
 
-
 class evaluate:
     def __init__(self, model, test_ds, class_names):
         self.model = model

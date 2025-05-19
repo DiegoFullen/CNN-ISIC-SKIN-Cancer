@@ -1,270 +1,270 @@
-isic_id,attribution,copyright_license,age_approx,anatom_site_general,anatom_site_special,benign_malignant,concomitant_biopsy,diagnosis,diagnosis_1,diagnosis_2,diagnosis_3,diagnosis_confirm_type,image_type,lesion_id,melanocytic,sex
-ISIC_0034321,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,dermoscopic,IL_0671802,True,female
-ISIC_0034322,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8930683,True,male
-ISIC_0034323,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_7607071,False,male
-ISIC_0034324,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5396483,True,male
-ISIC_0034325,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,upper extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5810082,True,female
-ISIC_0034326,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,head/neck,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,dermoscopic,IL_2515860,False,male
-ISIC_0034328,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4530438,True,male
-ISIC_0034329,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,head/neck,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_5340108,True,male
-ISIC_0034330,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8511414,True,female
-ISIC_0034331,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4684692,True,male
-ISIC_0034332,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,upper extremity,,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_4940618,False,male
-ISIC_0034333,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,upper extremity,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_0828400,False,male
-ISIC_0034334,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,,,False,dermatofibroma,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,single image expert consensus,dermoscopic,IL_8846572,False,female
-ISIC_0034335,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_2706203,True,female
-ISIC_0034336,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3649590,True,female
-ISIC_0034337,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_7955684,True,female
-ISIC_0034338,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_7607071,False,male
-ISIC_0034339,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_7912559,True,male
-ISIC_0034340,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,dermoscopic,IL_0671802,True,female
-ISIC_0034341,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_7637162,True,male
-ISIC_0034342,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8704750,True,female
-ISIC_0034343,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,anterior torso,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_2956411,True,male
-ISIC_0034344,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,upper extremity,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_5411269,False,male
-ISIC_0034345,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_9721098,False,female
-ISIC_0034346,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_7406040,False,male
-ISIC_0034347,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_2220509,True,female
-ISIC_0034348,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_2860625,True,male
-ISIC_0034349,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_0683916,True,female
-ISIC_0034350,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5599890,True,male
-ISIC_0034351,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4309208,True,male
-ISIC_0034352,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4870675,True,female
-ISIC_0034354,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,head/neck,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_8138940,True,female
-ISIC_0034355,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_1124098,True,female
-ISIC_0034356,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3225292,True,male
-ISIC_0034357,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_9786318,True,male
-ISIC_0034359,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4321792,True,male
-ISIC_0034360,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,anterior torso,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,dermoscopic,IL_8729422,False,male
-ISIC_0034361,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_9345972,False,male
-ISIC_0034362,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_5556095,False,male
-ISIC_0034363,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_2908765,True,male
-ISIC_0034364,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_6767410,True,male
-ISIC_0034365,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,oral/genital,oral or genital,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8780822,True,female
-ISIC_0034366,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,dermoscopic,IL_7621159,False,male
-ISIC_0034367,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_6498193,True,male
-ISIC_0034368,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_4576519,False,male
-ISIC_0034369,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_6178165,True,male
-ISIC_0034370,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,dermoscopic,IL_0671802,True,female
-ISIC_0034371,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,confocal microscopy with consensus dermoscopy,dermoscopic,IL_8123669,False,male
-ISIC_0034372,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3348818,True,female
-ISIC_0034374,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_0188417,True,female
-ISIC_0034375,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,confocal microscopy with consensus dermoscopy,dermoscopic,IL_8123669,False,male
-ISIC_0034376,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_5693413,True,female
-ISIC_0034377,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4572479,True,male
-ISIC_0034378,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,head/neck,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_6075582,True,female
-ISIC_0034379,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_8775819,True,male
-ISIC_0034380,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_1692394,True,female
-ISIC_0034381,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,head/neck,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_5340108,True,male
-ISIC_0034382,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_1066942,True,female
-ISIC_0034383,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,upper extremity,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_5411269,False,male
-ISIC_0034385,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_9100982,True,male
-ISIC_0034386,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_5709069,True,male
-ISIC_0034387,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,upper extremity,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_0148334,False,female
-ISIC_0034389,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8112336,True,male
-ISIC_0034390,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,head/neck,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_2667697,False,male
-ISIC_0034391,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_6974585,True,male
-ISIC_0034392,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,lower extremity,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_8933263,True,female
-ISIC_0034393,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_2706203,True,female
-ISIC_0034394,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_1066942,True,female
-ISIC_0034395,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_5597335,True,female
-ISIC_0034396,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_9051854,False,female
-ISIC_0034397,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5868695,True,male
-ISIC_0034398,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_2260719,True,female
-ISIC_0034399,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5505533,True,male
-ISIC_0034400,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_7830063,True,female
-ISIC_0034401,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,acral NOS,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_6396830,True,male
-ISIC_0034402,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,upper extremity,,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_2393115,False,female
-ISIC_0034403,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,20,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5555103,True,female
-ISIC_0034404,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,anterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_1670186,False,male
-ISIC_0034405,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_9345972,False,male
-ISIC_0034406,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,upper extremity,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_1422780,False,male
-ISIC_0034407,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4132315,True,male
-ISIC_0034408,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3047910,True,female
-ISIC_0034409,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_9345972,False,male
-ISIC_0034410,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,upper extremity,,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_4940618,False,male
-ISIC_0034411,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_7134278,False,male
-ISIC_0034412,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_2872709,True,male
-ISIC_0034413,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,dermoscopic,IL_9798814,False,male
-ISIC_0034414,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_0134175,True,female
-ISIC_0034415,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5347082,True,female
-ISIC_0034416,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_7406040,False,male
-ISIC_0034417,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_0076127,True,female
-ISIC_0034418,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4389626,True,female
-ISIC_0034419,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5625899,True,male
-ISIC_0034420,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,upper extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_1300926,True,male
-ISIC_0034421,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,upper extremity,,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_9554952,False,female
-ISIC_0034422,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,upper extremity,,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_7570484,False,male
-ISIC_0034423,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3997790,True,male
-ISIC_0034424,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_6332412,True,female
-ISIC_0034425,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_8026752,True,male
-ISIC_0034426,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3901833,True,male
-ISIC_0034427,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,upper extremity,,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_2393115,False,female
-ISIC_0034428,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_1539145,True,male
-ISIC_0034429,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_1873954,True,female
-ISIC_0034430,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,dermoscopic,IL_1480817,True,male
-ISIC_0034431,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_0614048,True,female
-ISIC_0034433,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_4655248,True,female
-ISIC_0034434,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,acral NOS,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_4283175,True,male
-ISIC_0034435,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4248300,True,female
-ISIC_0034436,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,upper extremity,,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_9554952,False,female
-ISIC_0034437,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_0614048,True,female
-ISIC_0034438,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_6220664,True,female
-ISIC_0034439,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_7709254,True,male
-ISIC_0034440,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8825886,True,female
-ISIC_0034441,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_0682488,True,male
-ISIC_0034442,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4956248,True,female
-ISIC_0034443,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_7938334,True,male
-ISIC_0034444,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5872226,True,female
-ISIC_0034445,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4743793,True,male
-ISIC_0034446,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_5709069,True,male
-ISIC_0034447,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_1930368,True,male
-ISIC_0034448,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4021703,True,female
-ISIC_0034449,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,upper extremity,acral NOS,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_1688330,True,female
-ISIC_0034450,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,upper extremity,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_1936015,True,male
-ISIC_0034451,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,anterior torso,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_7258833,False,male
-ISIC_0034452,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_7637162,True,male
-ISIC_0034453,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,head/neck,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,dermoscopic,IL_2515860,False,male
-ISIC_0034454,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,upper extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_1973090,True,female
-ISIC_0034455,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,,,True,vascular lesion,Benign,Benign soft tissue proliferations - Vascular,,histopathology,dermoscopic,IL_9266257,False,male
-ISIC_0034456,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_4350937,True,male
-ISIC_0034457,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_3205474,True,male
-ISIC_0034458,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,oral/genital,oral or genital,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_7264920,True,female
-ISIC_0034459,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,head/neck,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_8138940,True,female
-ISIC_0034460,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,lower extremity,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_4439291,False,female
-ISIC_0034461,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,upper extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_2716400,True,male
-ISIC_0034463,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3802020,True,female
-ISIC_0034464,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_4350937,True,male
-ISIC_0034465,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8473574,True,female
-ISIC_0034466,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_7071416,True,male
-ISIC_0034467,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,upper extremity,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_4027404,True,male
-ISIC_0034468,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,acral NOS,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_4283175,True,male
-ISIC_0034469,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,upper extremity,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_1936015,True,male
-ISIC_0034470,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_7134278,False,male
-ISIC_0034471,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,,,False,vascular lesion,Benign,Benign soft tissue proliferations - Vascular,,single image expert consensus,dermoscopic,IL_4811158,False,
-ISIC_0034472,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_2260719,True,female
-ISIC_0034474,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_8775819,True,male
-ISIC_0034475,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_2177435,True,male
-ISIC_0034476,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_9252465,True,male
-ISIC_0034477,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,anterior torso,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_2956411,True,male
-ISIC_0034478,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,upper extremity,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_0828400,False,male
-ISIC_0034480,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_2908765,True,male
-ISIC_0034481,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4607653,True,male
-ISIC_0034482,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_5693413,True,female
-ISIC_0034483,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5576689,True,male
-ISIC_0034484,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,head/neck,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8049597,True,female
-ISIC_0034485,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,head/neck,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_2520846,False,female
-ISIC_0034486,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,anterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_1670186,False,male
-ISIC_0034487,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,anterior torso,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_5111323,True,male
-ISIC_0034488,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_8026752,True,male
-ISIC_0034489,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,dermoscopic,IL_3590048,True,male
-ISIC_0034490,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_1975887,False,male
-ISIC_0034491,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_0547573,True,female
-ISIC_0034492,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,upper extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_3775603,True,female
-ISIC_0034493,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_1975887,False,male
-ISIC_0034494,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,anterior torso,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_5111323,True,male
-ISIC_0034495,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_4350937,True,male
-ISIC_0034496,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_0547573,True,female
-ISIC_0034497,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_3205474,True,male
-ISIC_0034498,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,lower extremity,acral NOS,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_8820634,True,female
-ISIC_0034499,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_8026752,True,male
-ISIC_0034500,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,anterior torso,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_7258833,False,male
-ISIC_0034501,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,dermoscopic,IL_2283288,True,male
-ISIC_0034502,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_2458940,True,female
-ISIC_0034503,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,lower extremity,acral NOS,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_8820634,True,female
-ISIC_0034504,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_3205474,True,male
-ISIC_0034505,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,anterior torso,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_7258833,False,male
-ISIC_0034506,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_0547573,True,female
-ISIC_0034507,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,dermoscopic,IL_9741232,True,male
-ISIC_0034508,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,,,True,vascular lesion,Benign,Benign soft tissue proliferations - Vascular,,histopathology,dermoscopic,IL_9266257,False,male
-ISIC_0034509,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,20,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8864373,True,male
-ISIC_0034510,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_7938334,True,male
-ISIC_0034511,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_6472749,True,female
-ISIC_0034512,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,upper extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_6731115,True,male
-ISIC_0034513,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_5907987,True,male
-ISIC_0034514,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4096324,True,female
-ISIC_0034515,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_4655248,True,female
-ISIC_0034516,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4482758,True,male
-ISIC_0034517,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4348143,True,female
-ISIC_0034518,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,5,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_2637772,True,male
-ISIC_0034519,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_4133279,True,male
-ISIC_0034520,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5019064,True,female
-ISIC_0034521,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_1975887,False,male
-ISIC_0034522,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_2458940,True,female
-ISIC_0034523,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_7607071,False,male
-ISIC_0034524,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8028413,True,female
-ISIC_0034525,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_8912554,True,male
-ISIC_0034526,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,posterior torso,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_6864775,False,male
-ISIC_0034527,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_5458422,True,male
-ISIC_0034528,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8946723,True,female
-ISIC_0034529,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_3513019,True,
-ISIC_0034530,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8352903,True,male
-ISIC_0034531,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,posterior torso,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_1477377,False,male
-ISIC_0034532,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,upper extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_7234784,True,female
-ISIC_0034533,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_0713360,True,male
-ISIC_0034534,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5598970,True,male
-ISIC_0034535,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,dermoscopic,IL_9369418,False,
-ISIC_0034536,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,head/neck,,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_5921524,False,female
-ISIC_0034537,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_4572790,True,female
-ISIC_0034538,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,head/neck,,,True,actinic keratosis,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,histopathology,dermoscopic,IL_4896087,False,male
-ISIC_0034539,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_5564856,False,male
-ISIC_0034540,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,dermoscopic,IL_0771130,True,
-ISIC_0034541,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_1761643,True,female
-ISIC_0034542,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,dermoscopic,IL_0343676,False,
-ISIC_0034543,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8794897,True,female
-ISIC_0034544,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,20,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_0786469,True,female
-ISIC_0034545,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,upper extremity,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_5643065,False,female
-ISIC_0034546,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,posterior torso,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,dermoscopic,IL_2002113,False,male
-ISIC_0034547,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,posterior torso,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_7238806,False,male
-ISIC_0034548,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_0064712,True,male
-ISIC_0034549,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,,,True,vascular lesion,Benign,Benign soft tissue proliferations - Vascular,,histopathology,dermoscopic,IL_6097514,False,
-ISIC_0034551,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,upper extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_1006068,True,male
-ISIC_0034552,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_9199063,True,female
-ISIC_0034553,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_2842157,True,male
-ISIC_0034554,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,posterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_2986546,False,male
-ISIC_0034555,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,anterior torso,,,False,vascular lesion,Benign,Benign soft tissue proliferations - Vascular,,single image expert consensus,dermoscopic,IL_8100813,False,male
-ISIC_0034556,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5782784,True,male
-ISIC_0034557,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_9903509,True,female
-ISIC_0034558,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,anterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_5311695,True,female
-ISIC_0034559,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5026919,True,female
-ISIC_0034560,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_9630394,True,female
-ISIC_0034561,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,head/neck,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,confocal microscopy with consensus dermoscopy,dermoscopic,IL_4495226,False,male
-ISIC_0034562,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_7987816,True,female
-ISIC_0034563,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_1349759,True,male
-ISIC_0034564,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,anterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_7066222,True,female
-ISIC_0034565,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,anterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_3102684,False,male
-ISIC_0034566,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_0228020,True,female
-ISIC_0034567,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3570548,True,male
-ISIC_0034568,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,upper extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3414422,True,male
-ISIC_0034569,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_6253713,True,
-ISIC_0034570,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,lower extremity,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_3557128,False,female
-ISIC_0034571,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,dermoscopic,IL_2140686,False,
-ISIC_0034572,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,anterior torso,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_7728515,True,male
-ISIC_0034573,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_2608936,True,
-ISIC_0034574,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_2229636,False,female
-ISIC_0034575,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,dermoscopic,IL_1093912,False,
-ISIC_0034576,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3764797,True,female
-ISIC_0034577,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,lower extremity,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_2163456,True,female
-ISIC_0034578,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_9094161,False,male
-ISIC_0034579,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,upper extremity,acral NOS,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_0850142,False,female
-ISIC_0034580,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,25,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,dermoscopic,IL_3536876,True,
-ISIC_0034581,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,acral NOS,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_7996572,True,male
-ISIC_0034582,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,upper extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_3121824,True,female
-ISIC_0034583,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,acral NOS,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_6528772,True,female
-ISIC_0034584,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_4528445,True,male
-ISIC_0034585,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,dermoscopic,IL_0395327,False,male
-ISIC_0034586,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,25,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_4370701,True,female
-ISIC_0034587,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_7091545,True,female
-ISIC_0034588,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,posterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_9099494,False,male
-ISIC_0034589,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_1521391,True,male
-ISIC_0034590,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,dermoscopic,IL_2188746,True,female
-ISIC_0034591,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,head/neck,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_3901287,False,female
-ISIC_0034592,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_2808244,True,male
-ISIC_0034593,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_5113316,True,male
-ISIC_0034594,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_2191298,True,male
-ISIC_0034595,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,upper extremity,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,dermoscopic,IL_1837583,True,female
-ISIC_0034596,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,dermoscopic,IL_5564856,False,male
-ISIC_0034597,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,upper extremity,,,True,dermatofibroma,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,histopathology,dermoscopic,IL_0522964,False,female
-ISIC_0034598,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,dermoscopic,IL_3377512,False,male
-ISIC_0034599,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,dermoscopic,IL_9130306,True,female
-ISIC_0034600,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,dermoscopic,IL_8502285,True,male
+isic_id,age_approx,anatom_site_general,benign_malignant,concomitant_biopsy,diagnosis,diagnosis_1,diagnosis_2,diagnosis_3,diagnosis_confirm_type,melanocytic,sex
+ISIC_0034321,60,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,True,female
+ISIC_0034322,70,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034323,70,lower extremity,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034324,70,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034325,30,upper extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034326,80,head/neck,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,False,male
+ISIC_0034328,45,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034329,80,head/neck,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034330,40,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034331,75,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034332,60,upper extremity,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,male
+ISIC_0034333,65,upper extremity,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034334,50,lower extremity,,False,dermatofibroma,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,single image expert consensus,False,female
+ISIC_0034335,45,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034336,50,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034337,35,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034338,70,lower extremity,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034339,35,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034340,60,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,True,female
+ISIC_0034341,35,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034342,35,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034343,65,anterior torso,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034344,65,upper extremity,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034345,60,head/neck,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,female
+ISIC_0034346,65,posterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034347,45,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034348,40,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034349,45,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034350,45,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034351,45,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034352,40,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034354,65,head/neck,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034355,70,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034356,50,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034357,45,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034359,65,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034360,80,anterior torso,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,False,male
+ISIC_0034361,65,posterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034362,65,lower extremity,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034363,60,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034364,65,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034365,50,oral/genital,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034366,80,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,False,male
+ISIC_0034367,65,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034368,70,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034369,45,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034370,60,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,True,female
+ISIC_0034371,60,head/neck,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,confocal microscopy with consensus dermoscopy,False,male
+ISIC_0034372,65,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034374,70,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034375,60,head/neck,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,confocal microscopy with consensus dermoscopy,False,male
+ISIC_0034376,50,lower extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034377,50,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034378,70,head/neck,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034379,65,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034380,35,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034381,80,head/neck,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034382,65,lower extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034383,65,upper extremity,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034385,60,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034386,70,lower extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034387,75,upper extremity,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,female
+ISIC_0034389,30,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034390,70,head/neck,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034391,35,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034392,75,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034393,45,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034394,65,lower extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034395,45,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034396,60,lower extremity,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,female
+ISIC_0034397,55,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034398,50,posterior torso,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034399,40,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034400,35,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034401,45,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034402,80,upper extremity,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,female
+ISIC_0034403,20,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034404,85,anterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034405,65,posterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034406,70,upper extremity,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034407,35,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034408,40,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034409,65,posterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034410,60,upper extremity,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,male
+ISIC_0034411,60,head/neck,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034412,70,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034413,45,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,False,male
+ISIC_0034414,50,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034415,30,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034416,65,posterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034417,55,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034418,55,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034419,50,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034420,45,upper extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034421,70,upper extremity,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,female
+ISIC_0034422,85,upper extremity,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,male
+ISIC_0034423,50,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034424,55,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034425,35,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034426,65,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034427,80,upper extremity,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,female
+ISIC_0034428,75,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034429,40,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034430,55,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,True,male
+ISIC_0034431,50,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034433,60,head/neck,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034434,60,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034435,45,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034436,70,upper extremity,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,female
+ISIC_0034437,50,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034438,60,lower extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034439,75,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034440,40,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034441,35,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034442,35,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034443,70,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034444,65,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034445,50,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034446,70,lower extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034447,55,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034448,45,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034449,35,upper extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034450,75,upper extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034451,85,anterior torso,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034452,35,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034453,80,head/neck,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,False,male
+ISIC_0034454,45,upper extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034455,75,posterior torso,,True,vascular lesion,Benign,Benign soft tissue proliferations - Vascular,,histopathology,False,male
+ISIC_0034456,45,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034457,70,lower extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034458,45,oral/genital,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034459,65,head/neck,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034460,85,lower extremity,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,female
+ISIC_0034461,55,upper extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034463,30,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034464,45,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034465,55,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034466,50,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034467,55,upper extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034468,60,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034469,75,upper extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034470,60,head/neck,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034471,,,,False,vascular lesion,Benign,Benign soft tissue proliferations - Vascular,,single image expert consensus,False,
+ISIC_0034472,50,posterior torso,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034474,65,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034475,70,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034476,85,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034477,65,anterior torso,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034478,65,upper extremity,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034480,60,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034481,65,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034482,50,lower extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034483,50,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034484,45,head/neck,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034485,65,head/neck,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,female
+ISIC_0034486,85,anterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034487,65,anterior torso,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034488,35,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034489,40,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,True,male
+ISIC_0034490,50,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034491,50,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034492,85,upper extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034493,50,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034494,65,anterior torso,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034495,45,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034496,50,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034497,70,lower extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034498,30,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034499,35,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034500,85,anterior torso,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034501,50,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,True,male
+ISIC_0034502,40,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034503,30,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034504,70,lower extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034505,85,anterior torso,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034506,50,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034507,55,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,True,male
+ISIC_0034508,75,posterior torso,,True,vascular lesion,Benign,Benign soft tissue proliferations - Vascular,,histopathology,False,male
+ISIC_0034509,20,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034510,70,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034511,35,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034512,60,upper extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034513,65,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034514,50,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034515,60,head/neck,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034516,40,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034517,50,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034518,5,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034519,50,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034520,60,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034521,50,,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034522,40,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034523,70,lower extremity,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034524,40,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034525,70,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034526,70,posterior torso,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034527,35,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,male
+ISIC_0034528,75,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034529,,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,
+ISIC_0034530,45,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034531,70,posterior torso,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034532,40,upper extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034533,55,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034534,45,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034535,,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,False,
+ISIC_0034536,70,head/neck,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,female
+ISIC_0034537,45,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034538,50,head/neck,,True,actinic keratosis,Indeterminate,Indeterminate epidermal proliferations,Solar or actinic keratosis,histopathology,False,male
+ISIC_0034539,75,posterior torso,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034540,,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,True,
+ISIC_0034541,40,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034542,,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,False,
+ISIC_0034543,45,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034544,20,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034545,50,upper extremity,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,female
+ISIC_0034546,70,posterior torso,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,False,male
+ISIC_0034547,85,posterior torso,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034548,60,head/neck,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034549,,,,True,vascular lesion,Benign,Benign soft tissue proliferations - Vascular,,histopathology,False,
+ISIC_0034551,45,upper extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034552,70,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034553,60,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034554,85,posterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034555,75,anterior torso,,False,vascular lesion,Benign,Benign soft tissue proliferations - Vascular,,single image expert consensus,False,male
+ISIC_0034556,35,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034557,40,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034558,55,anterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034559,50,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034560,40,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034561,65,head/neck,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,confocal microscopy with consensus dermoscopy,False,male
+ISIC_0034562,40,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034563,45,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034564,45,anterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034565,65,anterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034566,45,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034567,45,posterior torso,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034568,50,upper extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034569,,,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,
+ISIC_0034570,75,lower extremity,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,female
+ISIC_0034571,,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,False,
+ISIC_0034572,55,anterior torso,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034573,,,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,
+ISIC_0034574,65,posterior torso,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,female
+ISIC_0034575,,,,False,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,single image expert consensus,False,
+ISIC_0034576,45,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034577,35,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034578,75,posterior torso,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034579,45,upper extremity,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,female
+ISIC_0034580,25,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,True,
+ISIC_0034581,45,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034582,35,upper extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034583,50,lower extremity,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034584,60,posterior torso,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,male
+ISIC_0034585,65,posterior torso,,True,squamous cell carcinoma,Malignant,Malignant epidermal proliferations,"Squamous cell carcinoma, NOS",histopathology,False,male
+ISIC_0034586,25,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034587,55,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,female
+ISIC_0034588,80,posterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034589,45,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034590,55,posterior torso,benign,True,nevus,Benign,Benign melanocytic proliferations,Nevus,histopathology,True,female
+ISIC_0034591,70,head/neck,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,female
+ISIC_0034592,40,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034593,35,,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034594,60,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
+ISIC_0034595,70,upper extremity,malignant,True,melanoma,Malignant,Malignant melanocytic proliferations (Melanoma),"Melanoma, NOS",histopathology,True,female
+ISIC_0034596,75,posterior torso,,True,pigmented benign keratosis,Benign,Benign epidermal proliferations,Pigmented benign keratosis,histopathology,False,male
+ISIC_0034597,60,upper extremity,,True,dermatofibroma,Benign,Benign soft tissue proliferations - Fibro-histiocytic,Dermatofibroma,histopathology,False,female
+ISIC_0034598,60,posterior torso,,True,basal cell carcinoma,Malignant,Malignant adnexal epithelial proliferations - Follicular,Basal cell carcinoma,histopathology,False,male
+ISIC_0034599,,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,single image expert consensus,True,female
+ISIC_0034600,40,lower extremity,benign,False,nevus,Benign,Benign melanocytic proliferations,Nevus,serial imaging showing no change,True,male
