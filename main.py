@@ -21,8 +21,11 @@ class Main:
         self.running = True
         self.settings = config.Settings()
         self.cnn = cnn.CNN()
+        print("Cargando modelo...")
         self.model_path = os.path.join(os.path.dirname(__file__), "Model" + self.settings.get_modelo_actual())
         self.model = tf.keras.models.load_model(self.model_path)
+        print("Modelo cargado correctamente.")
+        print("Forma de entrada esperada:", self.model.input_shape) # Experimental
         self.class_names = {
             0: "Benign",
             1: "Malignant"
@@ -47,8 +50,15 @@ class Main:
     
     def option3(self):
         # Código para probar el modelo
-        use_model = use.UseModel(self.model_path)
-    
+        use_model = use.UseModel(self.model)
+        n = input("¿Cuántas imágenes deseas predecir? (0 para cancelar): ")
+        if n.isdigit():
+            n = int(n)
+            if n > 0:
+                use_model.predict(n)
+            else:
+                print("Operación cancelada.")
+                
     def option4(self):
         # Código para crear métricas del modelo
         class_names = {
