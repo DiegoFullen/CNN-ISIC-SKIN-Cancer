@@ -20,7 +20,7 @@ class evaluate:
         print(f"Test AUC: {test_auc:.4f}")
         
     def plot_training_history(self, history):
-        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(15, 5))
+        ax1, ax2 = plt.subplots(1, 2, figsize=(15, 5))
         
         # Gráfico de precisión
         ax1.plot(history.history['accuracy'])

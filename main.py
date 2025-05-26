@@ -6,6 +6,8 @@ import Utils.evaluation as evaluate
 import Utils.Use as use
 import tensorflow as tf
 
+from sklearn.preprocessing import LabelEncoder
+
 class Main:
     def __init__(self):
         self.name = "Main Class"
@@ -61,16 +63,18 @@ class Main:
                 
     def option4(self):
         # Código para crear métricas del modelo
-        class_names = {
-            0: "Benign",
-            1: "Malignant"
-        }
-        evaluate_obj = evaluate.evaluate(self.model, self.test_path, class_names)
-        evaluate_obj.evaluate_model()
-        evaluate_obj.plot_training_history(self.cnn.history)
-        evaluate_obj.matrix_confusion(self.evaluate.y_true, self.evaluate.y_pred)
-        evaluate_obj.display_predictions(self.evaluate.X_test, self.evaluate.predictions, self.evaluate.y_test)
+        print("WIP")
         
+        """
+        X_test, y_test = self.load_data(self.test_path)
+        self.model.evaluate(X_test, y_test)
+
+        self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+        self.evaluate.evaluate_model()
+        self.evaluate.plot_training_history(self.cnn.history)
+        self.evaluate.matrix_confusion(self.evaluate.y_true, self.evaluate.y_pred)
+        self.evaluate.display_predictions(self.evaluate.X_test, self.evaluate.predictions, self.evaluate.y_test)
+        """
     def exit(self):
         self.running = False
 
@@ -91,63 +95,6 @@ class Main:
                 action()
             else:
                 print("Opción no válida. Intenta de nuevo.")
-    
-    def process_verification_folder(self, folder_path, verifier):
-        """Procesa todos los pares de fotos en una carpeta (adaptado para la clase)"""
-        try:
-            results = []
-            file_pairs = []
-            
-            # Identificar archivos
-            files = [f for f in os.listdir(folder_path) if f.lower().endswith(('.jpg', '.jpeg', '.png'))]
-            
-            # Encontrar pares (foto + INE)
-            foto_files = [f for f in files if '_foto.' in f.lower()]
-            
-            for foto in foto_files:
-                prefix = foto.split('_foto.')[0]
-                ine_candidates = [f for f in files if f.startswith(f"{prefix}_ine.")]
-                
-                if ine_candidates:
-                    file_pairs.append((foto, ine_candidates[0]))
-            
-            if not file_pairs:
-                print("\nNo se encontraron pares válidos (formato esperado: '1_foto.jpg', '1_ine.jpg')")
-                return None
-            
-            print(f"\nEncontrados {len(file_pairs)} pares de imágenes:")
-            for i, (foto, ine) in enumerate(file_pairs, 1):
-                print(f" {i}. {foto} ↔ {ine}")
-            
-            print("\nIniciando verificación...")
-            
-            for foto, ine in file_pairs:
-                foto_path = os.path.join(folder_path, foto)
-                ine_path = os.path.join(folder_path, ine)
-                
-                result = verifier.verify_faces(foto_path, ine_path, is_ine=True, return_details=True)
-                
-                row = {
-                    'foto': foto,
-                    'ine': ine,
-                    'match': result['match'],
-                    'probability': result['probability'],
-                    'cosine_sim': result['similarity']['cosine'],
-                    'error': result.get('error', '')
-                }
-                results.append(row)
-                
-                status = "✅" if row['match'] else "❌"
-                print(f" {status} {foto:<15} ↔ {ine:<15} | Prob: {row['probability']:.1%} | Coseno: {row['cosine_sim']:.3f}")
-            
-            # Crear DataFrame
-            df = pd.DataFrame(results)
-            
-            return df
-        
-        except Exception as e:
-            print(f"\nError durante el procesamiento: {str(e)}")
-            return None
 
 
 if __name__ == "__main__":

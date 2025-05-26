@@ -45,7 +45,7 @@ CONV_FILTER = {
 }
 
 CLASS_WEIGHT_BENIGN = 1.0  
-CLASS_WEIGHT_MALIGNANT = 4.0  
+CLASS_WEIGHT_MALIGNANT = 4.0
 class_weight_dict = {0: CLASS_WEIGHT_BENIGN, 1: CLASS_WEIGHT_MALIGNANT}
 
 # Separacion de datos por bloques
@@ -362,8 +362,6 @@ class CNN:
 
     # --------------------------------------------------------
 
-    
-        
     def save_settings(self):
         new_input = ({
             "archivo": self.model_name,
