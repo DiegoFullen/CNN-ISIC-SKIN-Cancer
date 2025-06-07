@@ -1,4 +1,6 @@
-**/*.jpg
+Test/
+Training/
+Training2/
 Docs/
 *.pyc
 *.h5
