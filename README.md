@@ -21,14 +21,23 @@ A deep learning system for **skin cancer detection using a Convolutional Neurona
 ## Project Strucure
 /skin-cancer-cnn-isic/
   │
-  ├── datasets/             # ISIC dataset (not included in repo, link provided)
-  ├── preprocessing/        # Image preprocessing and augmentation scripts
-  ├── training/             # CNN model definition and training scripts
-  ├── evaluation/           # Performance evaluation and visualization
-  ├── models/               # Saved trained models (.h5)
-  ├── main.py               # Entry point for training/testing pipeline
-  ├── requirements.txt      # Dependencies
+  ├── CNN/                  
+      ├── CNN.py             # Configuration and architecture of CNN
+  ├── Datasets/              # CSV's with metadata of training and testing
+  ├── Graphics/              # Training curves (accuracy/loss), Confusion matrix, Model Predictions (menu option 3)
+  ├── Test/                  # Test images (separate dataset)
+  ├── Training/              # Training images
+  ├── Utils/                 
+      ├── Tes_No_GPU.py      # Check if GPU is available
+      ├── Use.py             # Using a model trained on new images
+      ├── evaluation.py      # Generates the graphics in Graphics/
+  ├── Config/               
+      ├── data.josn          # Version control (current model metadata)
+      ├── Settings.py        # Handling JSON and global configuration
+  ├── main.py                # Main menu (iteration, downgrade, prediction, WIP metrics)
+  ├── requirements.txt       # Dependencies
   └── README.md
+
 
 ## How to Run
 ### 1. Clone repository
